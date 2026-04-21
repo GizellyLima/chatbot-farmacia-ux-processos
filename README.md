@@ -4,7 +4,7 @@ Chatbot de atendimento automatizado desenvolvido em Python para simulação de C
 
 ## 🔄 Fluxo de Atendimento do Chatbot
 
-https://github.com/GizellyLima/chatbot-farmacia-ux-processos/blob/main/fluxograma
+https://github.com/GizellyLima/chatbot-farmacia-ux-processos/blob/main/Fluxograma.png
 
 ## 📄 Case completo
 
