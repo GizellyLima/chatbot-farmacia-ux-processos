@@ -4,8 +4,7 @@ Chatbot de atendimento automatizado desenvolvido em Python para simulação de C
 
 ## 🔄 Fluxo de Atendimento do Chatbot
 
-![Fluxo do Chatbot](link-da-sua-imagem-aqui)
-
+![Fluxo do Chatbot](https://raw.githubusercontent.com/GizellyLima/telegram-customer-service-bot/main/ChatGPT%20Image%2020%20de%20abr.%20de%202026%2C%2022_40_35.png)
 ## 📄 Case completo
 
 👉 [Acesse o case completo](./Criação de Chatbot para Farmácia.pdf)
