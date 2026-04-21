@@ -10,60 +10,79 @@ Chatbot de atendimento automatizado desenvolvido em Python para simulação de C
 
 📎 [Acesse o estudo de caso completo (PDF) https://github.com/GizellyLima/chatbot-farmacia-ux-processos/blob/main/Desenvolvimento%20de%20Chatbot%20para%20Farm%C3%A1cia%20com%20Foco%20em%20Experi%C3%AA.pdf
 
-- Consulta de medicamentos
-- Verificação de estoque
-- Cálculo automático de valores
-- Formas de pagamento
-- Fluxo de atendimento automatizado
-- Respostas em linguagem natural
 
-## Tecnologias utilizadas
+## ⚙️ Funcionalidades
 
-- Python
-- Telebot (Telegram Bot API)
-- Telegram
+- Consulta de medicamentos  
+- Verificação de estoque  
+- Cálculo automático de valores  
+- Formas de pagamento  
+- Fluxo de atendimento automatizado  
+- Respostas em linguagem natural  
+
+---
+
+## 🛠️ Tecnologias
+
+- Python  
+- Telebot (API do Telegram)  
+- Telegram  
+
+---
 
 ## 🎯 Objetivo
 
-Este projeto foi desenvolvido para estudo de automação de atendimento, Customer Experience (CX) e melhoria de processos de atendimento digital, com foco na otimização da jornada do usuário.
+Este projeto foi desenvolvido para estudo de automação de atendimento, Experiência do Cliente (CX) e melhoria de processos digitais, com foco na otimização da jornada do usuário.
 
-## 🧠 Problema identificado
+---
+
+## 🧠 Problemas Identificados
 
 Muitos atendimentos automatizados apresentam dificuldades como:
-- Fluxos confusos e pouco intuitivos
-- Falta de continuidade na conversa
-- Dificuldade na jornada de compra
-- Baixa personalização no atendimento
 
-- ## 💡 Solução proposta
+- Fluxos confusos e pouco intuitivos  
+- Falta de continuidade na conversa  
+- Dificuldade na jornada de compra  
+- Baixa personalização no atendimento  
+
+---
+
+## 💡 Proposta de Solução
 
 Este chatbot foi desenvolvido com foco em:
 
-- Simplificar a jornada do cliente
-- Reduzir esforço na navegação
-- Manter o contexto da conversa
-- Garantir clareza nas opções apresentadas
+- Simplificar a jornada do cliente  
+- Reduzir esforço na navegação  
+- Manter o contexto da conversa  
+- Garantir clareza nas opções  
 
-- ## 🔄 Fluxo de atendimento
+---
 
-1. Cliente seleciona produto  
+## 🔄 Fluxo de Atendimento
+
+1. Cliente escolhe o produto  
 2. Define quantidade  
 3. Bot pergunta se deseja adicionar mais itens  
-4. Se sim → retorna ao catálogo  
-5. Se não → segue para pagamento  
-6. Escolha da forma de pagamento  
-7. Escolha entre entrega ou retirada  
-8. Confirmação de endereço  
-9. Finalização do pedido
 
-10. ## 🎯 Foco em Experiência do Cliente (CX)
+- Se sim → retorna ao catálogo  
+- Se não → segue para pagamento  
+
+4. Escolha da forma de pagamento  
+5. Escolha entre entrega ou retirada  
+6. Confirmação de endereço  
+7. Finalização do pedido  
+
+---
+
+## 🎯 Foco em Experiência do Cliente (CX)
 
 - Redução de atrito na jornada  
 - Clareza na comunicação  
 - Continuidade do fluxo  
 - Facilidade na tomada de decisão  
 
+---
 
-## Status
+## 🚧 Status
 
 Em desenvolvimento — novas funcionalidades serão adicionadas.
