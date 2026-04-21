@@ -56,23 +56,6 @@ Este chatbot foi desenvolvido com foco em:
 - Manter o contexto da conversa  
 - Garantir clareza nas opções  
 
----
-
-## 🔄 Fluxo de Atendimento
-
-1. Cliente escolhe o produto  
-2. Define quantidade  
-3. Bot pergunta se deseja adicionar mais itens  
-
-- Se sim → retorna ao catálogo  
-- Se não → segue para pagamento  
-
-4. Escolha da forma de pagamento  
-5. Escolha entre entrega ou retirada  
-6. Confirmação de endereço  
-7. Finalização do pedido  
-
----
 
 ## 🎯 Foco em Experiência do Cliente (CX)
 
